@@ -1,0 +1,868 @@
+{
+  "name": "topics",
+  "children": [
+    {
+      "name": "masks",
+      "children": [
+        {
+          "name": "effective",
+          "value": 1
+        },
+        {
+          "name": "time",
+          "value": 1
+        },
+        {
+          "name": "free",
+          "value": 1
+        },
+        {
+          "name": "making",
+          "value": 1
+        },
+        {
+          "name": "control",
+          "value": 1
+        },
+        {
+          "name": "covid19$coronavirus",
+          "value": 1
+        },
+        {
+          "name": "general",
+          "value": 1
+        },
+        {
+          "name": "distributed",
+          "value": 1
+        }
+      ]
+    },
+    {
+      "name": "flatten$curve",
+      "children": [
+        {
+          "name": "prevention$control",
+          "value": 1
+        },
+        {
+          "name": "washing$wearing",
+          "value": 1
+        },
+        {
+          "name": "also$limiting",
+          "value": 1
+        },
+        {
+          "name": "spread$things",
+          "value": 1
+        },
+        {
+          "name": "says$infection",
+          "value": 1
+        },
+        {
+          "name": "sally$davies",
+          "value": 1
+        },
+        {
+          "name": "measures$hand",
+          "value": 1
+        },
+        {
+          "name": "cambridge$professor",
+          "value": 1
+        },
+        {
+          "name": "coronavirus$covid19",
+          "value": 1
+        }
+      ]
+    },
+    {
+      "name": "covid19",
+      "children": [
+        {
+          "name": "spread",
+          "value": 1
+        },
+        {
+          "name": "wearing$masks",
+          "value": 1
+        },
+        {
+          "name": "lives",
+          "value": 1
+        },
+        {
+          "name": "black",
+          "value": 1
+        },
+        {
+          "name": "read",
+          "value": 1
+        },
+        {
+          "name": "show",
+          "value": 1
+        },
+        {
+          "name": "article",
+          "value": 1
+        },
+        {
+          "name": "heres",
+          "value": 1
+        },
+        {
+          "name": "protests",
+          "value": 1
+        }
+      ]
+    },
+    {
+      "name": "wear",
+      "children": [
+        {
+          "name": "surgical",
+          "value": 1
+        },
+        {
+          "name": "wear$face",
+          "value": 1
+        },
+        {
+          "name": "staff",
+          "value": 1
+        },
+        {
+          "name": "coverings",
+          "value": 1
+        },
+        {
+          "name": "guidance",
+          "value": 1
+        },
+        {
+          "name": "visitors",
+          "value": 1
+        },
+        {
+          "name": "times",
+          "value": 1
+        },
+        {
+          "name": "hospitals",
+          "value": 1
+        }
+      ]
+    },
+    {
+      "name": "people",
+      "children": [
+        {
+          "name": "wear$masks",
+          "value": 1
+        },
+        {
+          "name": "stop",
+          "value": 1
+        },
+        {
+          "name": "work",
+          "value": 1
+        },
+        {
+          "name": "expert",
+          "value": 1
+        },
+        {
+          "name": "recommendation",
+          "value": 1
+        },
+        {
+          "name": "police",
+          "value": 1
+        },
+        {
+          "name": "protests",
+          "value": 1
+        },
+        {
+          "name": "respiratory",
+          "value": 1
+        }
+      ]
+    },
+    {
+      "name": "spread$covid19",
+      "children": [
+        {
+          "name": "wearing$face",
+          "value": 1
+        },
+        {
+          "name": "help$prevent",
+          "value": 1
+        },
+        {
+          "name": "correctly",
+          "value": 1
+        },
+        {
+          "name": "slow",
+          "value": 1
+        },
+        {
+          "name": "mask$public",
+          "value": 1
+        },
+        {
+          "name": "action",
+          "value": 1
+        },
+        {
+          "name": "cloth",
+          "value": 1
+        },
+        {
+          "name": "proper",
+          "value": 1
+        }
+      ]
+    },
+    {
+      "name": "4thjuly$pink$floral$tulip",
+      "children": [
+        {
+          "name": "study",
+          "value": 1
+        },
+        {
+          "name": "reduce",
+          "value": 1
+        },
+        {
+          "name": "fauci",
+          "value": 1
+        },
+        {
+          "name": "symbolic",
+          "value": 1
+        },
+        {
+          "name": "ineffective",
+          "value": 1
+        },
+        {
+          "name": "claiming",
+          "value": 1
+        },
+        {
+          "name": "means",
+          "value": 1
+        },
+        {
+          "name": "researchers",
+          "value": 1
+        },
+        {
+          "name": "warning",
+          "value": 1
+        }
+      ]
+    },
+    {
+      "name": "facemask$corona$covid19$virus",
+      "children": [
+        {
+          "name": "store$choose$favorite$item",
+          "value": 1
+        },
+        {
+          "name": "free$shipping$mask$visit",
+          "value": 1
+        },
+        {
+          "name": "clothmask$virus$prevent$coronamask",
+          "value": 1
+        },
+        {
+          "name": "covid19$masks$kn95masks$kn95mask",
+          "value": 1
+        },
+        {
+          "name": "virusmask$manufacture$mask$skincare",
+          "value": 1
+        },
+        {
+          "name": "masks$prevent",
+          "value": 1
+        },
+        {
+          "name": "stop",
+          "value": 1
+        },
+        {
+          "name": "gloves",
+          "value": 1
+        },
+        {
+          "name": "spread$coronavirus",
+          "value": 1
+        }
+      ]
+    },
+    {
+      "name": "social$distancing",
+      "children": [
+        {
+          "name": "measures",
+          "value": 1
+        },
+        {
+          "name": "wearing$masks",
+          "value": 1
+        },
+        {
+          "name": "preventive",
+          "value": 1
+        },
+        {
+          "name": "hand",
+          "value": 1
+        },
+        {
+          "name": "washable",
+          "value": 1
+        },
+        {
+          "name": "shops",
+          "value": 1
+        },
+        {
+          "name": "filter",
+          "value": 1
+        },
+        {
+          "name": "safety",
+          "value": 1
+        },
+        {
+          "name": "real",
+          "value": 1
+        }
+      ]
+    },
+    {
+      "name": "prevention",
+      "children": [
+        {
+          "name": "home",
+          "value": 1
+        },
+        {
+          "name": "care",
+          "value": 1
+        },
+        {
+          "name": "covid_19",
+          "value": 1
+        },
+        {
+          "name": "cure",
+          "value": 1
+        },
+        {
+          "name": "curfew",
+          "value": 1
+        },
+        {
+          "name": "ventilator",
+          "value": 1
+        },
+        {
+          "name": "special",
+          "value": 1
+        },
+        {
+          "name": "pakistan",
+          "value": 1
+        }
+      ]
+    },
+    {
+      "name": "coronavirus",
+      "children": [
+        {
+          "name": "face$mask",
+          "value": 1
+        },
+        {
+          "name": "july",
+          "value": 1
+        },
+        {
+          "name": "extend",
+          "value": 1
+        },
+        {
+          "name": "ordinance",
+          "value": 1
+        },
+        {
+          "name": "citys",
+          "value": 1
+        },
+        {
+          "name": "votes",
+          "value": 1
+        },
+        {
+          "name": "breaking",
+          "value": 1
+        },
+        {
+          "name": "pansy$kids",
+          "value": 1
+        },
+        {
+          "name": "finally",
+          "value": 1
+        }
+      ]
+    },
+    {
+      "name": "face$coverings",
+      "children": [
+        {
+          "name": "face$masks",
+          "value": 1
+        },
+        {
+          "name": "make",
+          "value": 1
+        },
+        {
+          "name": "medical",
+          "value": 1
+        },
+        {
+          "name": "cloth",
+          "value": 1
+        },
+        {
+          "name": "facemasks",
+          "value": 1
+        },
+        {
+          "name": "mandatory",
+          "value": 1
+        },
+        {
+          "name": "healthcare",
+          "value": 1
+        },
+        {
+          "name": "protective",
+          "value": 1
+        },
+        {
+          "name": "grade",
+          "value": 1
+        }
+      ]
+    },
+    {
+      "name": "mask",
+      "children": [
+        {
+          "name": "safe",
+          "value": 1
+        },
+        {
+          "name": "covid",
+          "value": 1
+        },
+        {
+          "name": "covid19$coronavirus",
+          "value": 1
+        },
+        {
+          "name": "stayhome",
+          "value": 1
+        },
+        {
+          "name": "staysafe",
+          "value": 1
+        },
+        {
+          "name": "socialdistancing",
+          "value": 1
+        },
+        {
+          "name": "quarantine",
+          "value": 1
+        },
+        {
+          "name": "coronavir",
+          "value": 1
+        },
+        {
+          "name": "practicing",
+          "value": 1
+        }
+      ]
+    },
+    {
+      "name": "anything$prevent$getting$coronavirus",
+      "children": [
+        {
+          "name": "regular$surgical$fancy$mask",
+          "value": 1
+        },
+        {
+          "name": "wearing$mask",
+          "value": 1
+        },
+        {
+          "name": "spread",
+          "value": 1
+        },
+        {
+          "name": "helps",
+          "value": 1
+        },
+        {
+          "name": "symptoms",
+          "value": 1
+        },
+        {
+          "name": "made",
+          "value": 1
+        },
+        {
+          "name": "foundation",
+          "value": 1
+        },
+        {
+          "name": "contract",
+          "value": 1
+        },
+        {
+          "name": "asthma",
+          "value": 1
+        }
+      ]
+    },
+    {
+      "name": "hands",
+      "children": [
+        {
+          "name": "prevent$covid19",
+          "value": 1
+        },
+        {
+          "name": "stay",
+          "value": 1
+        },
+        {
+          "name": "wash",
+          "value": 1
+        },
+        {
+          "name": "wearing$mask",
+          "value": 1
+        },
+        {
+          "name": "frequently",
+          "value": 1
+        },
+        {
+          "name": "surfaces",
+          "value": 1
+        },
+        {
+          "name": "avoid",
+          "value": 1
+        },
+        {
+          "name": "clean",
+          "value": 1
+        },
+        {
+          "name": "maintain",
+          "value": 1
+        }
+      ]
+    },
+    {
+      "name": "prevent",
+      "children": [
+        {
+          "name": "virus",
+          "value": 1
+        },
+        {
+          "name": "mask$prevent",
+          "value": 1
+        },
+        {
+          "name": "good",
+          "value": 1
+        },
+        {
+          "name": "corona",
+          "value": 1
+        },
+        {
+          "name": "learn",
+          "value": 1
+        },
+        {
+          "name": "govt",
+          "value": 1
+        },
+        {
+          "name": "catching",
+          "value": 1
+        },
+        {
+          "name": "airborne",
+          "value": 1
+        }
+      ]
+    },
+    {
+      "name": "wear$mask",
+      "children": [
+        {
+          "name": "face$covering",
+          "value": 1
+        },
+        {
+          "name": "distance",
+          "value": 1
+        },
+        {
+          "name": "wearing",
+          "value": 1
+        },
+        {
+          "name": "continue",
+          "value": 1
+        },
+        {
+          "name": "social",
+          "value": 1
+        },
+        {
+          "name": "community",
+          "value": 1
+        },
+        {
+          "name": "cases",
+          "value": 1
+        },
+        {
+          "name": "youre",
+          "value": 1
+        },
+        {
+          "name": "practice",
+          "value": 1
+        }
+      ]
+    },
+    {
+      "name": "protect",
+      "children": [
+        {
+          "name": "fabric",
+          "value": 1
+        },
+        {
+          "name": "prevent$spread$coronavirus",
+          "value": 1
+        },
+        {
+          "name": "remember",
+          "value": 1
+        },
+        {
+          "name": "masks$help",
+          "value": 1
+        },
+        {
+          "name": "alone$cannot",
+          "value": 1
+        },
+        {
+          "name": "fight",
+          "value": 1
+        },
+        {
+          "name": "hong",
+          "value": 1
+        },
+        {
+          "name": "kong",
+          "value": 1
+        }
+      ]
+    },
+    {
+      "name": "pandemic",
+      "children": [
+        {
+          "name": "important",
+          "value": 1
+        },
+        {
+          "name": "health",
+          "value": 1
+        },
+        {
+          "name": "spreading",
+          "value": 1
+        },
+        {
+          "name": "virus",
+          "value": 1
+        },
+        {
+          "name": "save",
+          "value": 1
+        },
+        {
+          "name": "prevents",
+          "value": 1
+        },
+        {
+          "name": "follow",
+          "value": 1
+        },
+        {
+          "name": "start",
+          "value": 1
+        }
+      ]
+    },
+    {
+      "name": "covering",
+      "children": [
+        {
+          "name": "nonmedical",
+          "value": 1
+        },
+        {
+          "name": "hygiene",
+          "value": 1
+        },
+        {
+          "name": "mask$face",
+          "value": 1
+        },
+        {
+          "name": "wearing",
+          "value": 1
+        },
+        {
+          "name": "great",
+          "value": 1
+        },
+        {
+          "name": "physical$distancing",
+          "value": 1
+        },
+        {
+          "name": "wear$face",
+          "value": 1
+        },
+        {
+          "name": "daily",
+          "value": 1
+        }
+      ]
+    },
+    {
+      "name": "public",
+      "children": [
+        {
+          "name": "june",
+          "value": 1
+        },
+        {
+          "name": "transport",
+          "value": 1
+        },
+        {
+          "name": "government",
+          "value": 1
+        },
+        {
+          "name": "guidelines",
+          "value": 1
+        },
+        {
+          "name": "england",
+          "value": 1
+        },
+        {
+          "name": "compulsory",
+          "value": 1
+        },
+        {
+          "name": "monday",
+          "value": 1
+        },
+        {
+          "name": "prevented",
+          "value": 1
+        }
+      ]
+    },
+    {
+      "name": "prevent$spread$covid19",
+      "children": [
+        {
+          "name": "disease",
+          "value": 1
+        },
+        {
+          "name": "check",
+          "value": 1
+        },
+        {
+          "name": "place",
+          "value": 1
+        },
+        {
+          "name": "science",
+          "value": 1
+        },
+        {
+          "name": "office",
+          "value": 1
+        },
+        {
+          "name": "part",
+          "value": 1
+        },
+        {
+          "name": "encourage",
+          "value": 1
+        },
+        {
+          "name": "taking",
+          "value": 1
+        },
+        {
+          "name": "feet",
+          "value": 1
+        }
+      ]
+    }
+  ]
+}
+>>> 
